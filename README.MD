@@ -55,7 +55,7 @@ The notebook uses the **Amazon Cell_Phones_and_Accessories Dataset**.
 To acquire the dataset:  
 1. Visit the [Amazon Datasets Repository](https://amazon-reviews-2023.github.io/).  
 2. Download the dataset for **Cell_Phones_and_Accessories**.  
-3. Place the dataset file in the `/data` folder of this repository.
+
 
 ---
 
