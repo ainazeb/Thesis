@@ -61,7 +61,7 @@ To acquire the dataset:
 
 ## How to Run
 ### Using Google Colab:
-1. Open the [notebook file](path/to/notebook.ipynb) directly in Colab by clicking this link:[Open in Colab](https://colab.research.google.com/github/ainazeb/Thesis/blob/main/notebooks/v21_phones_2.ipynb)
+1. Open the [notebook file] (path/to/notebook.ipynb) directly in Colab by clicking this link: [Open in Colab] (https://colab.research.google.com/github/ainazeb/Thesis/blob/main/notebooks/v21_phones_2.ipynb)
 2. Upload the dataset when prompted or ensure it is accessible from your environment.  
 3. Run all cells sequentially to execute the code and view results.
 
